@@ -1,6 +1,7 @@
+# Hello 👋
 - 👋 Hi, I’m @BlazeNub
 - 👀 I’m interested in making discord bots 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Discord.js
 - 📬 You can reach me on discord join my server https://dsc.gg/noobindustry
 
 <!---
